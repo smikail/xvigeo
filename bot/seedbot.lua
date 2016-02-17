@@ -213,7 +213,8 @@ function create_config( )
     "ingroup",
     "inpm",
     "banhammer",
-    "addme",
+    "yadd",
+    "satadd",
     "broadcast",
     "download_media",
     "admin"
